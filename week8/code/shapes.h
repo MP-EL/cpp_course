@@ -56,6 +56,6 @@ class Circle : public Shape{
         double rotate(void);
 };
 
-// #include "shapes.cpp"
+#include "shapes.cpp"
 
 #endif
